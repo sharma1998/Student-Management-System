@@ -19,4 +19,4 @@
 
 4. Data Retrieval
 
-![alt]https://github.com/sharma1998/Student-Management-System/blob/master/sc8.png
+![alt](https://github.com/sharma1998/Student-Management-System/blob/master/sc8.png)
